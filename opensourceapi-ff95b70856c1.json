@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "opensourceapi",
+  "private_key_id": "ff95b70856c1a5789941c559f97e6c40fcafc1be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPWLwfVEGvZG2s\n6/rS3aa+uDSr6d4fLG9IzG1Y4tQIGxWANgAU4BS8VFqy6i8qylhQLH3cRG5DyPST\nXKk/oILXxb2/K3zLnfgg8Zr8lnovEv0M8bN3GjyfigqQfCVaxH8Lhwnf0JA/ix8H\n/4Wj+zXUOzYvubP/mlf/kRRhG5Xj10yDSkTInCm79dZxMcSN3yuw6OT/XGmUseQ6\nzRskf7ttKuqSdyeniRdMyJalagO5mtcWKtyuCu5+FUzemFRRIbdXvBqwge6LjVTU\nTuJLqwSlJDA4GUiwwC76jsRY8lXBjLi4gFpacMrJqPuqk7A7kvgfv7fKv15mjiXZ\n0KFmoMA3AgMBAAECggEAE86Hg+6w+squKuAacsuEsEKkqIJymi0aHV192HPTJ2GS\nqXoMrdW+l70yIRmhtdBqvn0/UNG1yLD6NmhtzGhh2+2rR8B7CGmF8QthRniGXn3J\nsGGvUgwyhzrcNdWpla6j/VRF5YKcg+M1wPWqIhvidrZNyO9ocy+A7EPAJKDap7YR\noIXtsN+OPVSnpWj2rEw6AaMV19WDNmPq7AdqIkdyhnLcn+kamwwBhnLWXPilF8eg\nW7xlDJeUC8kC9Lb+VAXnM19upEtmG2nC2bBlR6gQfvJjGA7lzMRf7rzSqGyoT/1N\nlPKBHKv2tEa5vJag2lPFwgwDq9C24TBKVRVFZNuamQKBgQC/qU9JZzQsKdm7NcoA\n1BPiULTAPt0D3zU2N35Sg74/fYoKilrbJIt+d5dcLR7lk8fp0tmHhaVw/YjMBBZQ\nXTuyXAlN2Dlgf9wzn5rD0vzagmBnNH5BOeTRH/YFVlRonzn6RkAmWrphrzFiimR2\nXUEfcZZo6G6TdWCHOn1pSoJPWQKBgQC/d23hONwilFw5QMmlwIZ0Vgm5jdA7/8b2\n+sZY+DxAq7LTFyTOxq4kTf6PPkTPzJyEXt+4nMfoorYuSMbhVePr0KOpPxKIkQu2\nvfZQetGyIPyxGV+xt2SDb5Krx5Db21yqK2dI7Yv+qN2f5tQHQIbLPjQ6drVqKYBo\ndd0xLhWqDwKBgE1R+YmMWBDlBVCwP4EcDbWEh5bzBWjVeHsZ4h1ZxruIYtMjw8ma\nsafgiTCHh2potwLOrDEvKnIt5i0gDPx40GeBF8PO0j7q9iPhZKdRi+5/IHMiSzj3\nKSdwtGiszjqy2cns415VxdE4wzyUxji2IFqWEW7bLhjRBpMndoaup2lpAoGAbfZi\nZfJpA3cfjEY4SXjL/66WQTpAOOVKWPhnyBsxR5cUygVFv3f99Z3RsGT70jhaP+/Z\nH0bzzRj99pEXn7zbfMjD5eTyePqMtrRc7ZXMLzigx/mhqwh/srj2jK+983cFvjnV\nRN4hA+3p8vb4GP4nLD0ac+VPhZw2QkhG9ALasGMCgYEAkl3852iitudl9saVlNDl\nmuaCD8JUFMUs00sObUjGxeWYNYLwKyJ+dcZ+nV8Us60rWY2eN5Z5V/dUXh9II10u\n2BpxvIiTQZ06g4N5OIZzazeCBHI4NeznDbchxYZNp21XY7POVw7ZD8C9YxY7aTxc\ntWp2L0qsp18mxHoDpO29OTs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "opensourceisrael@opensourceapi.iam.gserviceaccount.com",
+  "client_id": "115369911717878887276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/opensourceisrael%40opensourceapi.iam.gserviceaccount.com"
+}

@@ -1,0 +1,157 @@
+@font-face {
+font-family: 'Azo Sans Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Regular'), url('/static/fonts/AzoSansRegular.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Italic'), url('/static/fonts/AzoSansItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Thin';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Thin'), url('/static/fonts/AzoSansThin.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Thin Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Thin Italic'), url('/static/fonts/AzoSansThinItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Light';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Light'), url('/static/fonts/AzoSansLight.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Light Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Light Italic'), url('/static/fonts/AzoSansLightItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Medium'), url('/static/fonts/AzoSansMedium.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Medium Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Medium Italic'), url('/static/fonts/AzoSansMediumItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Bold'), url('/static/fonts/AzoSansBold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Bold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Bold Italic'), url('/static/fonts/AzoSansBoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Black';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Black'), url('/static/fonts/AzoSansBlack.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Azo Sans Black Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Black Italic'), url('/static/fonts/AzoSansBlackItalic.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Azo Sans Black Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Azo Sans Black Italic'), url('/static/fonts/AzoSansBlackItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Light'), url('/static/fonts/OpenSansHebrew-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans LightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans LightItalic'), url('/static/fonts/OpenSansHebrew-LightItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Regular'), url('/static/fonts/OpenSansHebrew-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Italic'), url('/static/fonts/OpenSansHebrew-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Bold'), url('/static/fonts/OpenSansHebrew-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans BoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans BoldItalic'), url('/static/fonts/OpenSansHebrew-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans ExtraBold'), url('/static/fonts/OpenSansHebrew-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Open Sans ExtraBoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans ExtraBoldItalic'), url('/static/fonts/OpenSansHebrewExtraBold-Italic.woff') format('woff');
+}

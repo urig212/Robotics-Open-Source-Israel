@@ -1,0 +1,191 @@
+@import "custom-fonts.css";
+
+
+nav {
+    overflow: hidden;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-left: 20px;
+    
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    direction: rtl;
+
+    background-color: #f0f8ff;
+    transition: background-color 0.4s ease-out;
+    transition: padding .5s ease-out;
+    font-family: 'Open Sans Light';   
+}
+
+nav button {
+    display: none;
+}
+
+nav img {
+    width: 50px;
+}
+
+nav a {
+    display: inline-block;
+    padding: 14px 16px;
+    font-size: 15px;
+    background-position: bottom right;
+    color: #000000;
+    /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
+    background-image: linear-gradient(to left, #eb1616, #8f1515);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .5s ease;
+
+    text-transform: capitalize;
+    text-decoration: none;
+    font-family: 'Open Sans Light';
+}
+
+nav form{
+    padding-right: 16px;
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+nav ul {
+    padding-top: 17px;
+    display: flex;
+    list-style: none;
+    font-family: 'Open Sans Light';
+}
+
+nav li {
+    padding-right: 25px;
+    font-family: 'Open Sans Light';
+}
+
+nav a.active {
+    /*color:#266bec;*/
+    color:#990f0f;
+    background-size: 100% 2px;
+    font-family: "Azo Sans";
+    font-family: 'Open Sans Light';
+}
+
+nav a:hover {
+    /*color:#266bec;*/
+    color:#990f0f;
+    text-decoration: none;
+    background-size: 100% 2px;
+    font-family: 'Open Sans Light';
+}
+
+nav.scroll1 {
+    background-color: #ebebebfe;
+    color: #ffffff;
+    padding: 2px;
+    transition: padding .5s ease-out;
+    -webkit-box-shadow: 0 2px 10px -2px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 2px 10px -2px rgba(0, 0, 0, 0.4);
+}
+
+nav.scroll1 img {
+    background: none;
+}
+
+nav.scroll1 a {
+    color: #000000;
+    /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
+    background-image: linear-gradient(to left, #eb1616, #8f1515);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .5s ease;
+    font-family: 'Open Sans Light';
+}
+
+nav.scroll1 a:hover {
+    background-size: 100% 2px;
+    font-family: 'Open Sans Light';
+}
+
+nav.scroll1 a.active {
+    /*color:#266bec;*/
+    color:#990f0f;
+    background-size: 100% 2px;
+    font-family: 'Open Sans Light';
+}
+
+@media screen and (max-width: 500px) {
+    nav {
+        background-color: #313131;
+        height: 20vh;
+        transition: height 0.3s ease-out;
+    }
+
+    nav a:hover {
+        background-size: 100% 2px;
+        font-family: 'Open Sans Light';
+    }
+
+    nav.scroll1 {
+        transition: height 0.3s ease-out;
+        padding-top: 30px; 
+        padding-bottom: 30px; 
+        padding-left: 70px;
+    }
+
+    nav ul {
+        display: block;
+        list-style: none;
+    }
+
+    nav a {
+        /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
+        background-image: linear-gradient(to left, #eb1616, #8f1515);
+        background-position: bottom left;
+        background-repeat: no-repeat;
+        background-size: 0% 2px;
+        transition: background-size .5s ease;
+        font-family: 'Open Sans Light';
+    }
+
+    nav a.active {
+        /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
+        background-image: linear-gradient(to left, #eb1616, #8f1515);
+        background-position: bottom left;
+        background-repeat: no-repeat;
+        background-size: 100% 2px;
+        transition: background-size .5s ease;
+        font-family: 'Open Sans Light';
+    }
+
+    nav li {
+        padding-bottom: 30px;
+        font-family: 'Open Sans Light';
+    }
+
+    nav button {
+        display: block;
+        top: 50%;
+        background: transparent;
+        border: none;
+        color: #ffffff;
+        font-size: 26pt;
+    }
+
+    nav.scroll1 button {
+        color: #ffffff;
+    }
+
+    nav.expanded {
+        height: 90vh;
+    }
+
+    .nav-content {
+        padding-top: 70px;
+        position: absolute;
+        max-height: 0;
+        z-index: 1;
+        overflow: hidden;
+    }
+}
