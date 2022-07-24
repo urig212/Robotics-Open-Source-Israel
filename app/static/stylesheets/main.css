@@ -183,3 +183,15 @@ footer {
   background-color: #f0f8ff;
   margin-top: 3%;
 }
+
+
+@media screen and (max-width: 500px) {
+  .section .topic div {
+    color: #000000;
+    padding-right: 4.8vh;
+  } 
+  header{
+    margin-top: 18vh;
+  }
+
+}

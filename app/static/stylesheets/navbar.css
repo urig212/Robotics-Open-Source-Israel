@@ -122,15 +122,18 @@ nav.scroll1 a.active {
         transition: height 0.3s ease-out;
     }
 
-    nav a:hover {
-        background-size: 100% 2px;
-        font-family: 'Open Sans Light';
-    }
-
     nav.scroll1 {
         transition: height 0.3s ease-out;
-        padding-top: 30px; 
-        padding-bottom: 30px; 
+    }
+
+    nav a:hover {
+        background-size: 100% 2px;
+    }
+
+    nav.scroll2 {
+        transition: height 0.3s ease-out;
+        padding-top: 50px; 
+        padding-bottom: 50px; 
         padding-left: 70px;
     }
 
@@ -140,28 +143,23 @@ nav.scroll1 a.active {
     }
 
     nav a {
-        /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
-        background-image: linear-gradient(to left, #eb1616, #8f1515);
+        background-image: linear-gradient(to right, #266bec, #57c0e3);
         background-position: bottom left;
         background-repeat: no-repeat;
         background-size: 0% 2px;
         transition: background-size .5s ease;
-        font-family: 'Open Sans Light';
     }
 
     nav a.active {
-        /*background-image: linear-gradient(to left, #266bec, #57c0e3);*/
-        background-image: linear-gradient(to left, #eb1616, #8f1515);
+        background-image: linear-gradient(to right, #266bec, #57c0e3);
         background-position: bottom left;
         background-repeat: no-repeat;
         background-size: 100% 2px;
         transition: background-size .5s ease;
-        font-family: 'Open Sans Light';
     }
 
     nav li {
         padding-bottom: 30px;
-        font-family: 'Open Sans Light';
     }
 
     nav button {
@@ -174,7 +172,11 @@ nav.scroll1 a.active {
     }
 
     nav.scroll1 button {
-        color: #ffffff;
+        color: #1a1a1a;
+    }
+
+    nav.scroll2 button {
+        color: #1a1a1a;
     }
 
     nav.expanded {
